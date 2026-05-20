@@ -4,19 +4,19 @@
 A console-based Employee Record Management System built using Python.  
 This project demonstrates Object-Oriented Programming and File Handling.
 
-## 🚀 Features
+##  Features
 - Add new employees
 - View all employees
 - Search employee by ID
 - Delete employee records
 - Data stored permanently using file handling
 
-## 🛠 Technologies Used
+##  Technologies Used
 - Python
 - File Handling
 - OOP (Object-Oriented Programming)
 
-## ▶ How to Run
+##  How to Run
 
 1. Clone the repository
 2. Navigate to the project folder
@@ -26,8 +26,8 @@ This project demonstrates Object-Oriented Programming and File Handling.
 python employee_management.py
 ```
 
-## 📂 Data Storage
+##  Data Storage
 Employee data is stored in a text file named `employees.txt`.
 
-## 👨‍💻 Author
+##  Author
 Sourabh Panchal.
